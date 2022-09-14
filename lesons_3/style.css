@@ -1,0 +1,46 @@
+#start{
+    color: blue;
+}
+a{
+    color: green;
+}
+
+div.kosmo_1{
+    color: brown;
+}
+.text{
+    color: yellow;
+}
+.micro.text{
+    color: red;
+}
+.text{
+    color: chocolate;
+    color: blue;
+}
+.micro{
+    color: aqua;
+    color: crimson;
+}
+.text,
+.micro{
+    color: darkmagenta;
+}
+.text p{
+    color: deeppink;
+}
+.child.parents{
+    color: darkblue;
+}
+.parents *{
+    color: brown;
+}
+.parets ~ p{
+    color: darkorange;
+}
+.sun + p{
+    color: indigo;
+}
+.sun > p{
+    color: gold;
+}
